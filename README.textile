@@ -1,0 +1,9 @@
+h1. jasmine-titanium-reporters
+
+*Jasmine Titanium Reporters* is a tiny collection of javascript Jasmine reporters.
+The purpose is to bring testing for "Appcelerator's Titanium Mobile":http://www.appcelerator.com/products/titanium-mobile-application-development/ applications with the "JasmineBDD testing framework":http://pivotal.github.com/jasmine/.
+
+This project is focused on two reporters :
+
+* ConsoleReporter - Report test results using Titanium API logging.
+* JUnitXmlReporter - Report test results to a file in JUnit XML Report format.
